@@ -6,6 +6,13 @@
 
 ![Wes' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesh92&theme=gruvbox&hide_progress=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wesh92&show_icons=true" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesh92&theme=gruvbox&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **wesh92/wesh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
