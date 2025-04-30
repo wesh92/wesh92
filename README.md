@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wesh92&theme=gruvbox&row=2&column=3&title=MultiLanguage,Commits,Repositories,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Wes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesh92&show_icons=true)
+
 <!--
 **wesh92/wesh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
