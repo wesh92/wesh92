@@ -4,6 +4,8 @@
 
 ![Wes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesh92&show_icons=true)
 
+![Wes' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesh92&theme=gruvbox)
+
 <!--
 **wesh92/wesh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
