@@ -25,6 +25,6 @@
 
 
 - 🔭 I’m currently working on: ✨ Private Projects! ✨
-- 🌱 I’m currently learning: <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original-wordmark.svg" alt="zig" width="40" height="40" style="vertical-align:middle"/>
+- 🌱 I’m currently learning: <center><img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original-wordmark.svg" alt="zig" width="40" height="40" style="vertical-align:middle"/></center>
 - 👯 I’m looking to collaborate on: Anything Game Data related
 
